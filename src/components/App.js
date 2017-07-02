@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Content from './Content';
+import Content from './home_content/Content';
 import NavMenu from './NavMenu'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
