@@ -6,15 +6,13 @@ class CategoryTextList extends Component {
 	    return (
 	    <div className="CategoryTextList">
 		    <div className="row">
-		      	<div className="col-md-2">
-	      			<h3>Catalog</h3>
-					<ul className="list-group">
-						<li className="list-group-item"><a href="#">Fashion</a></li>
-						<li className="list-group-item"><a href="#">Electronic</a></li>
-						<li className="list-group-item"><a href="#">Cosmetic</a></li>
-						<li className="list-group-item"><a href="#">Food</a></li>
-					</ul>
-	      		</div>
+      			<h3>Catalog</h3>
+				<ul className="list-group">
+					<li className="list-group-item"><a href="#">Fashion</a></li>
+					<li className="list-group-item"><a href="#">Electronic</a></li>
+					<li className="list-group-item"><a href="#">Cosmetic</a></li>
+					<li className="list-group-item"><a href="#">Food</a></li>
+				</ul>
 	      	</div>
 	    </div>
 	    );

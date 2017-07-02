@@ -8,8 +8,14 @@ class Content extends Component {
 		return (
 			<div className="Content container">
 				<CategoryIconList />
-				<CategoryTextList />
-				<ItemRow />
+				<div className="row">
+					<div className="col-md-2">
+						<CategoryTextList />
+					</div>
+					<div className="col-md-10">
+						<ItemRow />
+					</div>
+				</div>
 			</div>
 		)
 	}
