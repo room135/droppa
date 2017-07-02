@@ -8,7 +8,7 @@ class NavMenu extends Component {
       <Navbar>
         <Navbar.Header>
           <Navbar.Brand>
-            <a href="#">React-Bootstrap</a>
+            <a href="#" className="logo"><b>D</b>roppa</a>
           </Navbar.Brand>
         </Navbar.Header>
         <Nav>
