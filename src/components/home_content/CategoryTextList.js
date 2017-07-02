@@ -5,8 +5,8 @@ class CategoryTextList extends Component {
   	render() {
 	    return (
 	    <div className="CategoryTextList">
-	      	<div className="col-md-2">
-	      		<div className="row">
+		    <div className="row">
+		      	<div className="col-md-2">
 	      			<h3>Catalog</h3>
 					<ul className="list-group">
 						<li className="list-group-item"><a href="#">Fashion</a></li>
