@@ -13,7 +13,11 @@ class Content extends Component {
 						<CategoryTextList />
 					</div>
 					<div className="col-md-10">
-						<ItemRow />
+						 <ItemRow title="อุปกรณ์" />
+						 <ItemRow title="หนังสือ" />
+						 <ItemRow title="ลิปสติก" />
+						 <ItemRow title="โครมไฟ" />
+						 <ItemRow title="รองเท้า" />
 					</div>
 				</div>
 			</div>
